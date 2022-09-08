@@ -7,6 +7,11 @@
     "start": "parcel index.html",
     "build": "parcel build index.html --dist-dir ./dist"
   },
+  "keywords": [
+    "fraction",
+    "arithmetic",
+    "math"
+  ],
   "author": "Usman Amusat",
   "license": "ISC",
   "devDependencies": {
